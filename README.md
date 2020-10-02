@@ -1,3 +1,3 @@
 # web34@Lesson-01
-Начало веб-разработки и программирования, введение. World Wide Web, HTTP(s), HTML, Visual Studio Code, Хостинг.
+Начало веб-разработки и программирования, введение. Сервис World Wide Web, Протокол HTTP(s), Язык разметки HTML, Редактор кода Visual Studio Code, Хостинг Neocities.org.
 
